@@ -66,3 +66,18 @@ main {
     height: 100%;
     width: 149px;
 }
+
+/* Photo slider */
+
+.slider_photo_block {
+    margin-top: 92px;
+}
+
+.slider_photo {
+    display: flex;
+
+}
+
+.slider_photo img {
+    margin-right: 56px;
+}
